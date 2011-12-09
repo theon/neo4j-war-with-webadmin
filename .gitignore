@@ -1,0 +1,13 @@
+target/
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# OS X
+Icon
+Thumbs.db
+.DS_Store
+
+# SASS
+*.sass-cache
